@@ -4,6 +4,7 @@ body{
 }
 #topo{
     display: flex;
+    margin-bottom: 2%;
 }
 #TopButton{
     display: flex;
@@ -43,4 +44,49 @@ img{
     margin-left: auto;
     margin-bottom: auto;
     margin-right: auto;
+}
+#tittle-project{
+    margin-top: 2%;
+    color: #ffffffd8;
+}
+.maps{
+    margin: 1%;
+}
+.card-body{
+    background-color:#000000;
+}
+.project{
+    color: #ffffffd8;
+    background-color: #000000;
+}
+h5{
+    background-color: #000000;
+}
+.card{
+    background-color: #000000;
+}
+.card-header{
+    font-size: 35px;
+    color: #ffffffd8;
+}
+.project-info{
+    font-size: 20px;
+    color: #ffffffd8
+}
+.project-title{
+    font-size: 23px;
+    color: #ffea00d8;
+    font-weight: bold;
+}
+.button-project{
+    margin: 5%;
+    font-size: 15px;
+    font-weight: bold;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    flex-wrap: wrap;
 }
